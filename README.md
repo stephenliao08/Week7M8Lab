@@ -1,4 +1,4 @@
-# Course 8 Lab
+# Course 7 Lab
 
 This repository contains the code and analysis for **Course 8 Lab** from the Flatiron Program.
 
